@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31kd3qpq3mxmp2ixfjaxpfidci7i)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kd3qpq3mxmp2ixfjaxpfidci7i&cover_image=true&theme=default&bar_color=671a78&bar_color_cover=false)
 
 ---
 
