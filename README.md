@@ -6,6 +6,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavinfon" alt="gavinfon" /></a> </p>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31kd3qpq3mxmp2ixfjaxpfidci7i)
+
+---
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
